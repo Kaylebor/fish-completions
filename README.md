@@ -3,7 +3,7 @@
 Fish shell completions for various tools, maintained by Kaylebor (@kaylebor).
 
 Currently includes:
-* `aider-chat`
+* [aider](https://aider.chat/)
 
 ## Installation
 
